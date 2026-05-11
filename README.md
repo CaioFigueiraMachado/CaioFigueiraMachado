@@ -1,16 +1,71 @@
-## Hi there 👋
+from pathlib import Path
 
-<!--
-**CaioFigueiraMachado/CaioFigueiraMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+readme = r"""# Olá, eu sou o Caio 👋
 
-Here are some ideas to get you started:
+## Desenvolvedor Web | React & Vite | Criador do Conecta Cidadão
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor focado em criar soluções tecnológicas com impacto social, utilizando desenvolvimento web moderno e interfaces intuitivas.
+
+---
+
+# 🚀 Projeto Principal
+
+## Conecta Cidadão
+
+O Conecta Cidadão é uma plataforma que conecta cidadãos, órgãos públicos, ONGs e parceiros para resolver problemas urbanos de forma colaborativa.
+
+### Funcionalidades
+- Registro de problemas urbanos com foto e localização
+- Mapa interativo de ocorrências
+- Sistema de pontuação e recompensas
+- Dashboard administrativo
+- Área do cidadão
+- Área de órgãos públicos
+- Área de parceiros
+- Timeline de ocorrências
+- Ranking de usuários
+- Catálogo de benefícios
+
+---
+
+# 💻 Tecnologias
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+---
+
+# 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioFigueiraMachado&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFigueiraMachado&layout=compact&theme=tokyonight)
+
+---
+
+# 📌 Projetos em destaque
+
+## 🔹 Conecta Cidadão
+Plataforma colaborativa para solução de problemas urbanos.
+
+---
+
+# 📫 Contato
+
+- GitHub: https://github.com/CaioFigueiraMachado
+
+---
+
+# ⚡ Objetivo
+
+Usar tecnologia para criar soluções modernas, úteis e acessíveis para as pessoas.
+"""
+
+path = Path("/mnt/data/README_GITHUB_PROFILE.md")
+path.write_text(readme, encoding="utf-8")
+
+print(f"Arquivo criado em: {path}")
