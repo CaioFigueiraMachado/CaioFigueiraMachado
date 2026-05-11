@@ -55,6 +55,6 @@ Plataforma colaborativa para solução de problemas urbanos.
 # ⚡ Objetivo
 
 Usar tecnologia para criar soluções modernas, úteis e acessíveis para as pessoas.
-"""
+
 
 
