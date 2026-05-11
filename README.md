@@ -1,6 +1,5 @@
-from pathlib import Path
 
-readme = r"""# Olá, eu sou o Caio 👋
+ Olá, eu sou o Caio 👋
 
 ## Desenvolvedor Web | React & Vite | Criador do Conecta Cidadão
 
@@ -39,13 +38,6 @@ O Conecta Cidadão é uma plataforma que conecta cidadãos, órgãos públicos, 
 
 ---
 
-# 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioFigueiraMachado&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFigueiraMachado&layout=compact&theme=tokyonight)
-
----
 
 # 📌 Projetos em destaque
 
@@ -65,7 +57,4 @@ Plataforma colaborativa para solução de problemas urbanos.
 Usar tecnologia para criar soluções modernas, úteis e acessíveis para as pessoas.
 """
 
-path = Path("/mnt/data/README_GITHUB_PROFILE.md")
-path.write_text(readme, encoding="utf-8")
 
-print(f"Arquivo criado em: {path}")
