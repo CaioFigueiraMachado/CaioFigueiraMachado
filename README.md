@@ -77,10 +77,6 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e gosto de transformar
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFigueiraMachado&layout=compact&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&locale=pt-br" alt="Linguagens" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioFigueiraMachado&bg_color=0d1117&color=14b8a6&line=0f766e&point=ffffff&area=true&hide_border=true" width="100%" alt="Atividade" />
-</p>
-
 <!-- Rodapé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:14b8a6,50:0f766e,100:0b3d2e" width="100%" alt="" />
