@@ -20,57 +20,76 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="" />
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas no SENAI** e gosto de transformar problemas reais em produtos completos: do protótipo no **Figma** ao banco de dados no **Supabase**, passando por interfaces em **React** e apps em **Flutter**. Meu foco é criar soluções úteis, bonitas e com **impacto social**.
 
-- 🏆 **Finalista do SENAI Dev Experience 2026**
-- 🔭 Trabalhando agora no **HubWork Business Center** (gestão inteligente de espaços corporativos com IoT)
-- 🌱 Aprendendo mais sobre **back-end, IoT com ESP32 e arquitetura de apps**
-- 🎨 Gosto de cuidar do design: tudo que construo começa no Figma
-- 📫 Fale comigo: **caiofigueiramachado.senai@gmail.com**
+- **Finalista do SENAI Dev Experience 2026**
+- Trabalhando agora no **HubWork Business Center** (gestão inteligente de espaços corporativos com IoT)
+- Aprendendo mais sobre **back-end, IoT com ESP32 e arquitetura de apps**
+- Gosto de cuidar do design: tudo que construo começa no Figma
+- Fale comigo: **caiofigueiramachado.senai@gmail.com**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="" />
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,flutter,dart&perline=8" alt="Front-end" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,arduino,git,github,figma,vscode&perline=8" alt="Back-end e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,flutter,dart&perline=10" alt="Front-end" /><br/>
+  <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,supabase,postgres,arduino,git,github,figma,vscode&perline=10" alt="Back-end e ferramentas" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="" />
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🏙️ Conecta Cidadão</h3>
+      <h3>Conecta Cidadão</h3>
       <p>Plataforma que conecta cidadãos, órgãos públicos, ONGs e parceiros para resolver problemas urbanos: registro com foto e localização, mapa de ocorrências, ranking e recompensas.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h3>📦 StockControl</h3>
+      <h3>StockControl</h3>
       <p>Sistema de gestão de estoque com login, perfis de admin e usuário, cadastro de produtos, movimentações, histórico e comentários.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/CaioFigueiraMachado/Stock-Control">🔗 Ver repositório</a>
+      <a href="https://github.com/CaioFigueiraMachado/Stock-Control">Ver repositório</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🏢 HubWork Business Center</h3>
+      <h3>HubWork Business Center</h3>
       <p>App para gestão inteligente de espaços corporativos: reservas de salas, área do profissional, painel admin e monitoramento IoT (ESP32) de ocupação, temperatura e umidade.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Lavelle Perfumes</h3>
+      <p>E-commerce de perfumes com catálogo, carrinho, cadastro e login de clientes, endereços de entrega, geração de boleto em PDF e painel administrativo com dashboard de vendas, pedidos, produtos e usuários.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/CaioFigueiraMachado/lavelle3.0">Ver repositório</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AirSafe</h3>
+      <p>Site do AirSafe, sensor inteligente contra vazamento de gás e incêndios: detecta o perigo, envia alerta por SMS e abre as janelas automaticamente. Inclui catálogo de produtos, carrinho e contato.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <a href="https://github.com/CaioFigueiraMachado/AirSafe2.4">Ver repositório</a>
     </td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="" />
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioFigueiraMachado&show_icons=true&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9&locale=pt-br" alt="Estatísticas" />
