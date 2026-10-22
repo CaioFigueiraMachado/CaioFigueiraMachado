@@ -25,7 +25,6 @@
 Sou estudante de **Desenvolvimento de Sistemas no SENAI** e gosto de transformar problemas reais em produtos completos: do protótipo no **Figma** ao banco de dados no **Supabase**, passando por interfaces em **React** e apps em **Flutter**. Meu foco é criar soluções úteis, bonitas e com **impacto social**.
 
 - **Finalista do SENAI Dev Experience 2026**
-- Trabalhando agora no **HubWork Business Center** (gestão inteligente de espaços corporativos com IoT)
 - Aprendendo mais sobre **back-end, IoT com ESP32 e arquitetura de apps**
 - Gosto de cuidar do design: tudo que construo começa no Figma
 - Fale comigo: **caiofigueiramachado.senai@gmail.com**
@@ -46,12 +45,6 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e gosto de transformar
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Conecta Cidadão</h3>
-      <p>Plataforma que conecta cidadãos, órgãos públicos, ONGs e parceiros para resolver problemas urbanos: registro com foto e localização, mapa de ocorrências, ranking e recompensas.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
       <h3>StockControl</h3>
       <p>Sistema de gestão de estoque com login, perfis de admin e usuário, cadastro de produtos, movimentações, histórico e comentários.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -59,14 +52,6 @@ Sou estudante de **Desenvolvimento de Sistemas no SENAI** e gosto de transformar
       <br/><br/>
       <a href="https://github.com/CaioFigueiraMachado/Stock-Control">Ver repositório</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>HubWork Business Center</h3>
-      <p>App para gestão inteligente de espaços corporativos: reservas de salas, área do profissional, painel admin e monitoramento IoT (ESP32) de ocupação, temperatura e umidade.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <h3>Lavelle Perfumes</h3>
       <p>E-commerce de perfumes com catálogo, carrinho, cadastro e login de clientes, endereços de entrega, geração de boleto em PDF e painel administrativo com dashboard de vendas, pedidos, produtos e usuários.</p>
