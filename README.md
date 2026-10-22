@@ -15,7 +15,7 @@
   <a href="mailto:caiofigueiramachado.senai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <img src="https://img.shields.io/badge/Dev%20Experience%202026-Finalista-0f766e?style=for-the-badge&labelColor=111111" alt="Finalista Dev Experience 2026" />
   <img src="https://img.shields.io/badge/SENAI-Taubat%C3%A9-e30613?style=for-the-badge&labelColor=111111" alt="SENAI Taubaté" />
-  <img src="https://komarev.com/ghpvc/?username=CaioFigueiraMachado&style=for-the-badge&color=14b8a6&label=VISITAS" alt="Visitas" />
+ 
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="" />
